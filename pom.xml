@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>maven-repository-tools</artifactId>
-  <version>1.5.2</version>
+  <version>1.5.3-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <description>A collection of tools for working with Maven repositories.</description>
